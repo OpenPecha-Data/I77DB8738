@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1067
   title: མགོན་པོ་ཕྱག་དྲུག་པའི་གཏོར་སྒྲུབ་འདོན་བསྒྲིགས་རྗེ་འཇམ་དབྱངས་བཞད་པའི་གསུངས་རྒྱུན་ལྟར་བཀོད་པ
-  volume: ''
+  volume:
+    b28d56e6a21047b9bdefb46bf3274289:
+      image_group_id: I1CZ1425
+      title: Volume 1 of mgon po phyag drug pa'i gtor sgrub 'don bsgrigs rje 'jam
+        dbyangs bzhad pa'i gsungs rgyun ltar bkod pa
+      volume_number: 1
+      total_pages: 12
   author: ''
+ebook_metadata:
+  title: མགོན་པོ་ཕྱག་དྲུག་པའི་གཏོར་སྒྲུབ་འདོན་བསྒྲིགས་རྗེ་འཇམ་དབྱངས་བཞད་པའི་གསུངས་རྒྱུན་ལྟར་བཀོད་པ
+  author: ''
+  sku: P000478
+  cover: cover.jpg
+  layers:
+  - pagination
