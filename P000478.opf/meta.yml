@@ -1,5 +1,7 @@
 id: P000478
 initial_creation_type: ocr
+created_at: 23/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1CZ1067
   title: མགོན་པོ་ཕྱག་དྲུག་པའི་གཏོར་སྒྲུབ་འདོན་བསྒྲིགས་རྗེ་འཇམ་དབྱངས་བཞད་པའི་གསུངས་རྒྱུན་ལྟར་བཀོད་པ
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 12
       base_file: v001.txt
-ebook_metadata:
-  title: མགོན་པོ་ཕྱག་དྲུག་པའི་གཏོར་སྒྲུབ་འདོན་བསྒྲིགས་རྗེ་འཇམ་དབྱངས་བཞད་པའི་གསུངས་རྒྱུན་ལྟར་བཀོད་པ
-  author: ''
-  sku: P000478
-  cover: cover.jpg
-  layers:
-  - pagination
